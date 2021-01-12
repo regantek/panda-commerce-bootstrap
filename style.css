@@ -19,3 +19,19 @@
   padding: 9px 25px;
   cursor: pointer;
 }
+.category-watch {
+  background-image: linear-gradient(to bottom, #ff8513 100%, #7fff58 0%);
+}
+.category-bags {
+  background-image: linear-gradient(to bottom, #ff134e 100%, #ff58ff 0%);
+}
+.category-shoes {
+  background-image: linear-gradient(to bottom, #3e13ff 100%, #58deff94 0%);
+}
+.category-watch,
+.category-bags,
+.category-shoes {
+  padding: 10px 30px;
+  color: #fff;
+  border-radius: 10px;
+}
